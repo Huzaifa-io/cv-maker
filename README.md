@@ -1,8 +1,6 @@
 # CV Maker Pro
 
-<p align="center">
-  <img src="https://via.placeholder.com/150x150?text=CV+Maker" alt="CV Maker Logo" width="150" height="150">
-</p>
+
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -15,19 +13,11 @@
   <a href="#license">License</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-</p>
 
 ## 📋 Overview
 
 CV Maker Pro is a powerful, feature-rich web application that allows users to create professional, customizable CVs/resumes with ease. Built with modern web technologies, it offers an intuitive interface, extensive customization options, and professional templates to help you stand out in your job search.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=CV+Maker+Screenshot" alt="CV Maker Screenshot">
-</p>
 
 ## ✨ Features
 
@@ -52,9 +42,9 @@ CV Maker Pro is a powerful, feature-rich web application that allows users to cr
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/cv-maker-pro.git
+git clone https://github.com/huzaifa-io/cv-maker.git
 
 # Go into the repository
-cd cv-maker-pro
+cd cv-maker
 
 # Open index.html in your browser
